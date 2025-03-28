@@ -8,7 +8,7 @@
 <p align='center'>
   Hello! I'm Farha.
   <br>
-  A Junior IT Executive. Currently a Part-Time student of Bachelor Computer Science (Software Engineering) at Universiti Teknologi Malaysia
+  A Junior IT Executive. Currently a Part-Time student Bachelor of Computer Science (Software Engineering) at Universiti Teknologi Malaysia
   <br>
   Let's connect!
 </p>
