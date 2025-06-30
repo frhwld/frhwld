@@ -16,6 +16,37 @@
 <br/>
 
 <h3>
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/about-me.gif" width="65" align="middle"> Meet the Maker (of this Repo)
+</h3>
+
+<br>
+
+As a technology professional who began my journey in IT support, I’ve grown from resolving frontline technical issues to building data-driven solutions and developing complex systems. My early support experience gave me a strong foundation in user empathy, troubleshooting, and system thinking, which now guides my commitment to creating meaningful, ethical, and user-centered digital experiences.
+
+<br>
+
+#### Personal Insights:
+
+- **Lifelong Learner and Educator:** I love learning and my hunger for knowledge is matched only by my enthusiasm for sharing it. I seize every opportunity to teach and inspire others.
+- **Traveler**: My wanderlust is fueled by more than just a desire to see new places. Each journey offers a unique opportunity to immerse myself in different cultures, practice new and familiar languages.
+
+<br>
+
+<h3>
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="65" align="middle"> My Toolbox
+</h3>
+
+![Windows](https://img.shields.io/badge/Windows-Server%20&%20Desktop-blue?style=for-the-badge&logo=windows)
+![Networking](https://img.shields.io/badge/Networking-Basics%20%2F%20Troubleshooting-orange?style=for-the-badge&logo=cisco)
+![Hardware](https://img.shields.io/badge/Hardware%20Support-PC%20%2F%20Laptop-lightgrey?style=for-the-badge&logo=dell)
+![Help Desk](https://img.shields.io/badge/Help%20Desk-Ticketing%20Systems-yellow?style=for-the-badge&logo=zammad)
+![Remote Support](https://img.shields.io/badge/Remote%20Support-TeamViewer%20%2F%20AnyDesk-critical?style=for-the-badge&logo=teamviewer)
+![Office 365](https://img.shields.io/badge/Office%20365-Admin%20&%20Support-darkorange?style=for-the-badge&logo=microsoftoffice)
+![Outlook](https://img.shields.io/badge/Outlook-Configuration%20%2F%20Troubleshooting-blue?style=for-the-badge&logo=microsoftoutlook)
+![Security](https://img.shields.io/badge/Security-ESET%20%2F%20Antivirus-green?style=for-the-badge&logo=eset)
+
+
+<h3>
   <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/postits.gif" width="65" align="middle"> Current Courses
 </h3>
 
