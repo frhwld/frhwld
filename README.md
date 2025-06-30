@@ -15,6 +15,12 @@
 
 <br/>
 
+<h3>
+  <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/postits.gif" width="65" align="middle"> Current Courses
+</h3>
+
+
+
 <div align='center'>
 
 ![Profile views counter shield](https://komarev.com/ghpvc/?username=frhwld&style=plastic&color=brightgreen&label=Profile+Viewed:)
