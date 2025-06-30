@@ -19,6 +19,12 @@
   <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/postits.gif" width="65" align="middle"> Current Courses
 </h3>
 
+[![SECP1513](https://img.shields.io/badge/SECP1513--TECHNOLOGY%20AND%20INFORMATION%20SYSTEM-purple?style=for-the-badge&logo=github)](https://github.com/frhwld/SECP1513-Technology-and-Information-System)
+
+[![SECI1143](https://img.shields.io/badge/SECI1143--PROBABILITY%20%26%20STATISTICAL%20DATA%20ANALYSIS-blue?style=for-the-badge&logo=github)](https://github.com/frhwld/SECI-1143-Probability-Statistical-Data-Analysis)
+
+[![SECD2613](https://img.shields.io/badge/SECD2613--SYSTEM%20ANALYSIS%20AND%20DESIGN-green?style=for-the-badge&logo=github)](https://github.com/frhwld/SECD2613-System-Analysis-Design)
+
 
 
 <div align='center'>
